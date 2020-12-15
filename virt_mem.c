@@ -235,7 +235,5 @@ void run_virtual_memory() {
 int main(int argc, const char * argv[]) {
   run_virtual_memory();
 
-  printf("Hello World!");
-
 	return 0;
 }
